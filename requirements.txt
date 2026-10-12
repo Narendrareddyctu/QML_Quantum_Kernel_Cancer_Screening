@@ -1,0 +1,7 @@
+qiskit>=2.1
+qiskit-aer
+scikit-learn
+numpy
+matplotlib
+pylatexenc
+jupyter
